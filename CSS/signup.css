@@ -1,0 +1,21 @@
+.navbar{
+  padding-left: 3em;
+}
+
+.container-fluid{
+  margin-left: 3em;
+  margin-right: 3em;
+}
+.userform{
+  min-height: 800px;
+}
+.jumbotron{
+  text-align: center;
+}
+
+.userform{
+  text-align: center;
+}
+.btnsubmit {
+  text-align: center;
+}
